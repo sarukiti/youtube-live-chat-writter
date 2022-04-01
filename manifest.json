@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "youtube-live-chat-writter",
-    "version": "0.2",
+    "version": "0.1",
   
     "description": "Popup youtube live-chat writter.",
 
@@ -28,7 +28,6 @@
       }
     },
     "background": {
-      "scripts": ["background.js"],
-      "persistent": false
+      "scripts": ["background.js"]
     }
   }
